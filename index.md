@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 
 <img src='https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/33186773_228776261213454_6897165887611076608_o.jpg?_nc_cat=110&_nc_oc=AQnbtSxm5RdgiRTdElh4l124c98VerwNtTzBcv5_27o50UfAvK8PVi7z_-GEBAN9l5M&_nc_ht=scontent-lax3-1.xx&oh=786f12738310b62fe111aa443a04bd9f&oe=5E11C0AE' style="width:400px;height:313px" align="right">
